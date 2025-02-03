@@ -5,8 +5,3 @@
 - 📫 How to reach me: Do not disturb!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The word "gullible" does not exist in any dictionary😉
-
-<!---
-jccudiamat/jccudiamat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
