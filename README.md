@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Data Analytics(Python, R, SQL, PowerBI, Tableau and MS Excel). 
 - 💞️ I’m looking to collaborate on Data Analytics and Flutter projects! 
 - 📫 How to reach me: Do not disturb!
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: The word "gullible" does not exist in any dictionary😉
